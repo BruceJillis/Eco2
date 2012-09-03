@@ -5,6 +5,8 @@ Eco² is an unforgiving ecological and economical simulator, the goal is to surv
 
 [Play It](http://dl.dropbox.com/u/29254286/bgj2.html)
 
+![Screenshot](http://i.imgur.com/7K37U.png)
+
 Controls:
 ========
 
