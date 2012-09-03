@@ -3,13 +3,6 @@ Eco²
 
 Eco² is an unforgiving ecological and economical simulator, the goal is to survive the experience as long as possible knowing that the end is inevitable.
 
-[Play It](http://dl.dropbox.com/u/29254286/bgj2.html)
-
-Screenshot
-==========
-
-![Screenshot](http://i.imgur.com/7K37U.png)
-
 Controls:
 ========
 
@@ -22,6 +15,13 @@ Controls:
 - `+/-` ~ volume up & down
 
 all other buttons are operated with the mouse.
+
+[Play It](http://dl.dropbox.com/u/29254286/bgj2.html)
+
+Screenshot
+==========
+
+![Screenshot](http://i.imgur.com/7K37U.png)
 
 Credits:
 ========
