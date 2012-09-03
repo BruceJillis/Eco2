@@ -21,7 +21,7 @@ all other buttons are operated with the mouse.
 Screenshot
 ==========
 
-![Screenshot](http://i.imgur.com/7K37U.png)
+![Screenshot](http://i.imgur.com/rbaWG.png)
 
 Credits:
 ========
